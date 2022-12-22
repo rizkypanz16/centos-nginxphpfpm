@@ -1,6 +1,6 @@
 ## Image Information
 
-base image : centos/systemd
+> base image : centos/systemd
 
 ## Build Image
 
